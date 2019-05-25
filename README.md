@@ -1,5 +1,5 @@
 ### Project 3 - FlashCards
-This design represents the last step of the react nanodegree.
+This project represents the last step of the react nanodegree.
 
 ### Required Items
 For this project it is necessary to have installed in the machine the react-native-cli and the expo.
